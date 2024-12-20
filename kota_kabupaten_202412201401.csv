@@ -1,0 +1,515 @@
+"id","propinsi_id","bps_code","name"
+"1101","11","1103",Kab. Aceh Selatan
+"1102","11","1104",Kab. Aceh Tenggara
+"1103","11","1105",Kab. Aceh Timur
+"1104","11","1106",Kab. Aceh Tengah
+"1105","11","1107",Kab. Aceh Barat
+"1106","11","1108",Kab. Aceh Besar
+"1107","11","1109",Kab. Pidie
+"1108","11","1111",Kab. Aceh Utara
+"1109","11","1101",Kab. Simeulue
+"1110","11","1102",Kab. Aceh Singkil
+"1111","11","1110",Kab. Bireuen
+"1112","11","1112",Kab. Aceh Barat Daya
+"1113","11","1113",Kab. Gayo Lues
+"1114","11","1116",Kab. Aceh Jaya
+"1115","11","1115",Kab. Nagan Raya
+"1116","11","1114",Kab. Aceh Tamiang
+"1117","11","1117",Kab. Bener Meriah
+"1118","11","1118",Kab. Pidie Jaya
+"1171","11","1171",Kota Banda Aceh
+"1172","11","1172",Kota Sabang
+"1173","11","1174",Kota Lhokseumawe
+"1174","11","1173",Kota Langsa
+"1175","11","1175",Kota Subulussalam
+"1201","12","1204",Kab. Tapanuli Tengah
+"1202","12","1205",Kab. Tapanuli Utara
+"1203","12","1203",Kab. Tapanuli Selatan
+"1204","12","1201",Kab. Nias
+"1205","12","1213",Kab. Langkat
+"1206","12","1211",Kab. Karo
+"1207","12","1212",Kab. Deli Serdang
+"1208","12","1209",Kab. Simalungun
+"1209","12","1208",Kab. Asahan
+"1210","12","1207",Kab. Labuhanbatu
+"1211","12","1210",Kab. Dairi
+"1212","12","1206",Kab. Toba Samosir
+"1213","12","1202",Kab. Mandailing Natal
+"1214","12","1214",Kab. Nias Selatan
+"1215","12","1216",Kab. Pakpak Bharat
+"1216","12","1215",Kab. Humbang Hasundutan
+"1217","12","1217",Kab. Samosir
+"1218","12","1218",Kab. Serdang Bedagai
+"1219","12","1219",Kab. Batu Bara
+"1220","12","1220",Kab. Padang Lawas Utara
+"1221","12","1221",Kab. Padang Lawas
+"1222","12","1222",Kab. Labuhanbatu Selatan
+"1223","12","1223",Kab. Labuhanbatu Utara
+"1224","12","1224",Kab. Nias Utara
+"1225","12","1225",Kab. Nias Barat
+"1271","12","1275",Kota Medan
+"1272","12","1273",Kota Pematangsiantar
+"1273","12","1271",Kota Sibolga
+"1274","12","1272",Kota Tanjung Balai
+"1275","12","1276",Kota Binjai
+"1276","12","1274",Kota Tebing Tinggi
+"1277","12","1277",Kota Padang Sidempuan
+"1278","12","1278",Kota Gunungsitoli
+"1301","13","1302",Kab. Pesisir Selatan
+"1302","13","1303",Kab. Solok
+"1303","13","1304",Kab. Sijunjung
+"1304","13","1305",Kab. Tanah Datar
+"1305","13","1306",Kab. Padang Pariaman
+"1306","13","1307",Kab. Agam
+"1307","13","1308",Kab. Lima Puluh Kota
+"1308","13","1309",Kab. Pasaman
+"1309","13","1301",Kab. Kepulauan Mentawai
+"1310","13","1311",Kab. Dharmasraya
+"1311","13","1310",Kab. Solok Selatan
+"1312","13","1312",Kab. Pasaman Barat
+"1371","13","1371",Kota Padang
+"1372","13","1372",Kota Solok
+"1373","13","1373",Kota Sawahlunto
+"1374","13","1374",Kota Padang Panjang
+"1375","13","1375",Kota Bukittinggi
+"1376","13","1376",Kota Payakumbuh
+"1377","13","1377",Kota Pariaman
+"1401","14","1406",Kab. Kampar
+"1402","14","1402",Kab. Indragiri Hulu
+"1403","14","1408",Kab. Bengkalis
+"1404","14","1403",Kab. Indragiri Hilir
+"1405","14","1404",Kab. Pelalawan
+"1406","14","1407",Kab. Rokan Hulu
+"1407","14","1409",Kab. Rokan Hilir
+"1408","14","1405",Kab. Siak
+"1409","14","1401",Kab. Kuantan Singingi
+"1410","14","1410",Kab. Kepulauan Meranti
+"1471","14","1471",Kota Pekanbaru
+"1472","14","1473",Kota Dumai
+"1501","15","1501",Kab. Kerinci
+"1502","15","1502",Kab. Merangin
+"1503","15","1503",Kab. Sarolangun
+"1504","15","1504",Kab. Batanghari
+"1505","15","1505",Kab. Muaro Jambi
+"1506","15","1507",Kab. Tanjung Jabung Barat
+"1507","15","1506",Kab. Tanjung Jabung Timur
+"1508","15","1509",Kab. Bungo
+"1509","15","1508",Kab. Tebo
+"1571","15","1571",Kota Jambi
+"1572","15","1572",Kota Sungai Penuh
+"1601","16","1601",Kab. Ogan Komering Ulu
+"1602","16","1602",Kab. Ogan Komering Ilir
+"1603","16","1603",Kab. Muara Enim
+"1604","16","1604",Kab. Lahat
+"1605","16","1605",Kab. Musi Rawas
+"1606","16","1606",Kab. Musi Banyuasin
+"1607","16","1607",Kab. Banyuasin
+"1608","16","1609",Kab. Ogan Komering Ulu  Timur
+"1609","16","1608",Kab. Ogan Komering Ulu  Selatan
+"1610","16","1610",Kab. Ogan Ilir
+"1611","16","1611",Kab. Empat Lawang
+"1612","16","1612",Kab. Penukal Abab Lematang  Ilir
+"1613","16","1613",Kab. Musi Rawas Utara
+"1671","16","1671",Kota Palembang
+"1672","16","1673",Kota Pagar Alam
+"1673","16","1674",Kota Lubuk Linggau
+"1674","16","1672",Kota Prabumulih
+"1701","17","1701",Kab. Bengkulu Selatan
+"1702","17","1702",Kab. Rejang Lebong
+"1703","17","1703",Kab. Bengkulu Utara
+"1704","17","1704",Kab. Kaur
+"1705","17","1705",Kab. Seluma
+"1706","17","1706",Kab. Muko Muko
+"1707","17","1707",Kab. Lebong
+"1708","17","1708",Kab. Kepahiang
+"1709","17","1709",Kab. Bengkulu Tengah
+"1771","17","1771",Kota Bengkulu
+"1801","18","1803",Kab. Lampung Selatan
+"1802","18","1805",Kab. Lampung Tengah
+"1803","18","1806",Kab. Lampung Utara
+"1804","18","1801",Kab. Lampung Barat
+"1805","18","1808",Kab. Tulang Bawang
+"1806","18","1802",Kab. Tanggamus
+"1807","18","1804",Kab. Lampung Timur
+"1808","18","1807",Kab. Way Kanan
+"1809","18","1809",Kab. Pesawaran
+"1810","18","1810",Kab. Pringsewu
+"1811","18","1811",Kab. Mesuji
+"1812","18","1812",Kab. Tulang Bawang Barat
+"1813","18","1813",Kab. Pesisir Barat
+"1871","18","1871",Kota Bandar Lampung
+"1872","18","1872",Kota Metro
+"1901","19","1901",Kab. Bangka
+"1902","19","1902",Kab. Belitung
+"1903","19","1905",Kab. Bangka Selatan
+"1904","19","1904",Kab. Bangka Tengah
+"1905","19","1903",Kab. Bangka Barat
+"1906","19","1906",Kab. Belitung Timur
+"1971","19","1971",Kota Pangkal Pinang
+"2101","21","2102",Kab. Bintan
+"2102","21","2101",Kab. Karimun
+"2103","21","2103",Kab. Natuna
+"2104","21","2104",Kab. Lingga
+"2105","21","2105",Kab. Kepulauan Anambas
+"2171","21","2171",Kota Batam
+"2172","21","2172",Kota Tanjung Pinang
+"3101","31","3101",Kab. Adm. Kep. Seribu
+"3171","31","3173",Kota Adm. Jakarta Pusat
+"3172","31","3175",Kota Adm. Jakarta Utara
+"3173","31","3174",Kota Adm. Jakarta Barat
+"3174","31","3171",Kota Adm. Jakarta Selatan
+"3175","31","3172",Kota Adm. Jakarta Timur
+"3201","32","3201",Kab. Bogor
+"3202","32","3202",Kab. Sukabumi
+"3203","32","3203",Kab. Cianjur
+"3204","32","3204",Kab. Bandung
+"3205","32","3205",Kab. Garut
+"3206","32","3206",Kab. Tasikmalaya
+"3207","32","3207",Kab. Ciamis
+"3208","32","3208",Kab. Kuningan
+"3209","32","3209",Kab. Cirebon
+"3210","32","3210",Kab. Majalengka
+"3211","32","3211",Kab. Sumedang
+"3212","32","3212",Kab. Indramayu
+"3213","32","3213",Kab. Subang
+"3214","32","3214",Kab. Purwakarta
+"3215","32","3215",Kab. Karawang
+"3216","32","3216",Kab. Bekasi
+"3217","32","3217",Kab. Bandung Barat
+"3218","32","3218",Kab. Pangandaran
+"3271","32","3271",Kota Bogor
+"3272","32","3272",Kota Sukabumi
+"3273","32","3273",Kota Bandung
+"3274","32","3274",Kota Cirebon
+"3275","32","3275",Kota Bekasi
+"3276","32","3276",Kota Depok
+"3277","32","3277",Kota Cimahi
+"3278","32","3278",Kota Tasikmalaya
+"3279","32","3279",Kota Banjar
+"3301","33","3301",Kab. Cilacap
+"3302","33","3302",Kab. Banyumas
+"3303","33","3303",Kab. Purbalingga
+"3304","33","3304",Kab. Banjarnegara
+"3305","33","3305",Kab. Kebumen
+"3306","33","3306",Kab. Purworejo
+"3307","33","3307",Kab. Wonosobo
+"3308","33","3308",Kab. Magelang
+"3309","33","3309",Kab. Boyolali
+"3310","33","3310",Kab. Klaten
+"3311","33","3311",Kab. Sukoharjo
+"3312","33","3312",Kab. Wonogiri
+"3313","33","3313",Kab. Karanganyar
+"3314","33","3314",Kab. Sragen
+"3315","33","3315",Kab. Grobogan
+"3316","33","3316",Kab. Blora
+"3317","33","3317",Kab. Rembang
+"3318","33","3318",Kab. Pati
+"3319","33","3319",Kab. Kudus
+"3320","33","3320",Kab. Jepara
+"3321","33","3321",Kab. Demak
+"3322","33","3322",Kab. Semarang
+"3323","33","3323",Kab. Temanggung
+"3324","33","3324",Kab. Kendal
+"3325","33","3325",Kab. Batang
+"3326","33","3326",Kab. Pekalongan
+"3327","33","3327",Kab. Pemalang
+"3328","33","3328",Kab. Tegal
+"3329","33","3329",Kab. Brebes
+"3371","33","3371",Kota Magelang
+"3372","33","3372",Kota Surakarta
+"3373","33","3373",Kota Salatiga
+"3374","33","3374",Kota Semarang
+"3375","33","3375",Kota Pekalongan
+"3376","33","3376",Kota Tegal
+"3401","34","3401",Kab. Kulon Progo
+"3402","34","3402",Kab. Bantul
+"3403","34","3403",Kab. Gunungkidul
+"3404","34","3404",Kab. Sleman
+"3471","34","3471",Kota Yogyakarta
+"3501","35","3501",Kab. Pacitan
+"3502","35","3502",Kab. Ponorogo
+"3503","35","3503",Kab. Trenggalek
+"3504","35","3504",Kab. Tulungagung
+"3505","35","3505",Kab. Blitar
+"3506","35","3506",Kab. Kediri
+"3507","35","3507",Kab. Malang
+"3508","35","3508",Kab. Lumajang
+"3509","35","3509",Kab. Jember
+"3510","35","3510",Kab. Banyuwangi
+"3511","35","3511",Kab. Bondowoso
+"3512","35","3512",Kab. Situbondo
+"3513","35","3513",Kab. Probolinggo
+"3514","35","3514",Kab. Pasuruan
+"3515","35","3515",Kab. Sidoarjo
+"3516","35","3516",Kab. Mojokerto
+"3517","35","3517",Kab. Jombang
+"3518","35","3518",Kab. Nganjuk
+"3519","35","3519",Kab. Madiun
+"3520","35","3520",Kab. Magetan
+"3521","35","3521",Kab. Ngawi
+"3522","35","3522",Kab. Bojonegoro
+"3523","35","3523",Kab. Tuban
+"3524","35","3524",Kab. Lamongan
+"3525","35","3525",Kab. Gresik
+"3526","35","3526",Kab. Bangkalan
+"3527","35","3527",Kab. Sampang
+"3528","35","3528",Kab. Pamekasan
+"3529","35","3529",Kab. Sumenep
+"3571","35","3571",Kota Kediri
+"3572","35","3572",Kota Blitar
+"3573","35","3573",Kota Malang
+"3574","35","3574",Kota Probolinggo
+"3575","35","3575",Kota Pasuruan
+"3576","35","3576",Kota Mojokerto
+"3577","35","3577",Kota Madiun
+"3578","35","3578",Kota Surabaya
+"3579","35","3579",Kota Batu
+"3601","36","3601",Kab. Pandeglang
+"3602","36","3602",Kab. Lebak
+"3603","36","3603",Kab. Tangerang
+"3604","36","3604",Kab. Serang
+"3671","36","3671",Kota Tangerang
+"3672","36","3672",Kota Cilegon
+"3673","36","3673",Kota Serang
+"3674","36","3674",Kota Tangerang Selatan
+"5101","51","5101",Kab. Jembrana
+"5102","51","5102",Kab. Tabanan
+"5103","51","5103",Kab. Badung
+"5104","51","5104",Kab. Gianyar
+"5105","51","5105",Kab. Klungkung
+"5106","51","5106",Kab. Bangli
+"5107","51","5107",Kab. Karangasem
+"5108","51","5108",Kab. Buleleng
+"5171","51","5171",Kota Denpasar
+"5201","52","5201",Kab. Lombok Barat
+"5202","52","5202",Kab. Lombok Tengah
+"5203","52","5203",Kab. Lombok Timur
+"5204","52","5204",Kab. Sumbawa
+"5205","52","5205",Kab. Dompu
+"5206","52","5206",Kab. Bima
+"5207","52","5207",Kab. Sumbawa Barat
+"5208","52","5208",Kab. Lombok Utara
+"5271","52","5271",Kota Mataram
+"5272","52","5272",Kota Bima
+"5301","53","5303",Kab. Kupang
+"5302","53","5304",Kab Timor Tengah Selatan
+"5303","53","5305",Kab. Timor Tengah Utara
+"5304","53","5306",Kab. Belu
+"5305","53","5307",Kab. Alor
+"5306","53","5309",Kab. Flores Timur
+"5307","53","5310",Kab. Sikka
+"5308","53","5311",Kab. Ende
+"5309","53","5312",Kab. Ngada
+"5310","53","5313",Kab. Manggarai
+"5311","53","5302",Kab. Sumba Timur
+"5312","53","5301",Kab. Sumba Barat
+"5313","53","5308",Kab. Lembata
+"5314","53","5314",Kab. Rote Ndao
+"5315","53","5315",Kab. Manggarai Barat
+"5316","53","5318",Kab. Nagekeo
+"5317","53","5316",Kab. Sumba Tengah
+"5318","53","5317",Kab. Sumba Barat Daya
+"5319","53","5319",Kab. Manggarai Timur
+"5320","53","5320",Kab. Sabu Raijua
+"5321","53","5321",Kab. Malaka
+"5371","53","5371",Kota Kupang
+"6101","61","6101",Kab. Sambas
+"6102","61","6104",Kab. Mempawah
+"6103","61","6105",Kab. Sanggau
+"6104","61","6106",Kab. Ketapang
+"6105","61","6107",Kab. Sintang
+"6106","61","6108",Kab. Kapuas Hulu
+"6107","61","6102",Kab. Bengkayang
+"6108","61","6103",Kab. Landak
+"6109","61","6109",Kab. Sekadau
+"6110","61","6110",Kab. Melawi
+"6111","61","6111",Kab. Kayong Utara
+"6112","61","6112",Kab. Kubu Raya
+"6171","61","6171",Kota Pontianak
+"6172","61","6172",Kota Singkawang
+"6201","62","6201",Kab. Kotawaringin Barat
+"6202","62","6202",Kab. Kotawaringin Timur
+"6203","62","6203",Kab. Kapuas
+"6204","62","6204",Kab. Barito Selatan
+"6205","62","6205",Kab. Barito Utara
+"6206","62","6209",Kab. Katingan
+"6207","62","6208",Kab. Seruyan
+"6208","62","6206",Kab. Sukamara
+"6209","62","6207",Kab. Lamandau
+"6210","62","6211",Kab. Gunung Mas
+"6211","62","6210",Kab. Pulang Pisau
+"6212","62","6213",Kab. Murung Raya
+"6213","62","6212",Kab. Barito Timur
+"6271","62","6271",Kota Palangkaraya
+"6301","63","6301",Kab. Tanah Laut
+"6302","63","6302",Kab. Kotabaru
+"6303","63","6303",Kab. Banjar
+"6304","63","6304",Kab. Barito Kuala
+"6305","63","6305",Kab. Tapin
+"6306","63","6306",Kab. Hulu Sungai Selatan
+"6307","63","6307",Kab. Hulu Sungai Tengah
+"6308","63","6308",Kab. Hulu Sungai Utara
+"6309","63","6309",Kab. Tabalong
+"6310","63","6310",Kab. Tanah Bumbu
+"6311","63","6311",Kab. Balangan
+"6371","63","6371",Kota Banjarmasin
+"6372","63","6372",Kota Banjarbaru
+"6401","64","6401",Kab. Paser
+"6402","64","6403",Kab. Kutai Kartanegara
+"6403","64","6405",Kab. Berau
+"6407","64","6402",Kab. Kutai Barat
+"6408","64","6404",Kab. Kutai Timur
+"6409","64","6409",Kab. Penajam Paser Utara
+"6411","64","6411",Kab. Mahakam Ulu
+"6471","64","6471",Kota Balikpapan
+"6472","64","6472",Kota Samarinda
+"6474","64","6474",Kota Bontang
+"6501","65","6502",Kab. Bulungan
+"6502","65","6501",Kab. Malinau
+"6503","65","6504",Kab. Nunukan
+"6504","65","6503",Kab. Tana Tidung
+"6571","65","6571",Kota Tarakan
+"7101","71","7101",Kab. Bolaang Mongondow
+"7102","71","7102",Kab. Minahasa
+"7103","71","7103",Kab. Kepulauan Sangihe
+"7104","71","7104",Kab. Kepulauan Talaud
+"7105","71","7105",Kab. Minahasa Selatan
+"7106","71","7106",Kab. Minahasa Utara
+"7107","71","7109",Kab. Minahasa Tenggara
+"7108","71","7107",Kab. Bolaang Mongondow Utara
+"7109","71","7108",Kab. Kep. Siau Tagulandang  Biaro
+"7110","71","7111",Kab. Bolaang Mongondow Timur
+"7111","71","7110",Kab. Bolaang Mongondow Selatan
+"7171","71","7171",Kota Manado
+"7172","71","7172",Kota Bitung
+"7173","71","7173",Kota Tomohon
+"7174","71","7174",Kota Kotamobagu
+"7201","72","7202",Kab. Banggai
+"7202","72","7204",Kab. Poso
+"7203","72","7205",Kab. Donggala
+"7204","72","7206",Kab. Toli Toli
+"7205","72","7207",Kab. Buol
+"7206","72","7203",Kab. Morowali
+"7207","72","7201",Kab. Banggai Kepulauan
+"7208","72","7208",Kab. Parigi Moutong
+"7209","72","7209",Kab. Tojo Una Una
+"7210","72","7210",Kab. Sigi
+"7211","72","7211",Kab. Banggai Laut
+"7212","72","7212",Kab. Morowali Utara
+"7271","72","7271",Kota Palu
+"7301","73","7301",Kab. Kepulauan Selayar
+"7302","73","7302",Kab. Bulukumba
+"7303","73","7303",Kab. Bantaeng
+"7304","73","7304",Kab. Jeneponto
+"7305","73","7305",Kab. Takalar
+"7306","73","7306",Kab. Gowa
+"7307","73","7307",Kab. Sinjai
+"7308","73","7311",Kab. Bone
+"7309","73","7308",Kab. Maros
+"7310","73","7309",Kab. Pangkajene Kepulauan
+"7311","73","7310",Kab. Barru
+"7312","73","7312",Kab. Soppeng
+"7313","73","7313",Kab. Wajo
+"7314","73","7314",Kab. Sidenreng Rappang
+"7315","73","7315",Kab. Pinrang
+"7316","73","7316",Kab. Enrekang
+"7317","73","7317",Kab. Luwu
+"7318","73","7318",Kab. Tana Toraja
+"7322","73","7322",Kab. Luwu Utara
+"7324","73","7325",Kab. Luwu Timur
+"7326","73","7326",Kab. Toraja Utara
+"7371","73","7371",Kota Makassar
+"7372","73","7372",Kota Pare Pare
+"7373","73","7373",Kota Palopo
+"7401","74","7404",Kab. Kolaka
+"7402","74","7403",Kab. Konawe
+"7403","74","7402",Kab. Muna
+"7404","74","7401",Kab. Buton
+"7405","74","7405",Kab. Konawe Selatan
+"7406","74","7406",Kab. Bombana
+"7407","74","7407",Kab. Wakatobi
+"7408","74","7408",Kab. Kolaka Utara
+"7409","74","7410",Kab. Konawe Utara
+"7410","74","7409",Kab. Buton Utara
+"7411","74","7411",Kab. Kolaka Timur
+"7412","74","7412",Kab. Konawe Kepulauan
+"7413","74","7413",Kab. Muna Barat
+"7414","74","7414",Kab. Buton Tengah
+"7415","74","7415",Kab. Buton Selatan
+"7471","74","7471",Kota Kendari
+"7472","74","7472",Kota Bau Bau
+"7501","75","7502",Kab. Gorontalo
+"7502","75","7501",Kab. Boalemo
+"7503","75","7504",Kab. Bone Bolango
+"7504","75","7503",Kab. Pahuwato
+"7505","75","7505",Kab. Gorontalo Utara
+"7571","75","7571",Kota Gorontalo
+"7601","76","7605",Kab. Pasangkayu
+"7602","76","7604",Kab. Mamuju
+"7603","76","7603",Kab. Mamasa
+"7604","76","7602",Kab. Polewali Mandar
+"7605","76","7601",Kab. Majene
+"7606","76","7606",Kab. Mamuju Tengah
+"8101","81","8103",Kab. Maluku Tengah
+"8102","81","8102",Kab. Maluku Tenggara
+"8103","81","8101",Kab. Kepulauan Tanimbar
+"8104","81","8104",Kab. Buru
+"8105","81","8107",Kab. Seram Bagian Timur
+"8106","81","8106",Kab. Seram Bagian Barat
+"8107","81","8105",Kab. Kepulauan Aru
+"8108","81","8108",Kab. Maluku Barat Daya
+"8109","81","8109",Kab. Buru Selatan
+"8171","81","8171",Kota Ambon
+"8172","81","8172",Kota Tual
+"8201","82","8201",Kab. Halmahera Barat
+"8202","82","8202",Kab. Halmahera Tengah
+"8203","82","8205",Kab. Halmahera Utara
+"8204","82","8204",Kab. Halmahera Selatan
+"8205","82","8203",Kab. Kepulauan Sula
+"8206","82","8206",Kab. Halmahera Timur
+"8207","82","8207",Kab. Pulau Morotai
+"8208","82","8208",Kab. Pulau Taliabu
+"8271","82","8271",Kota Ternate
+"8272","82","8272",Kota Tidore Kepulauan
+"9103","91","9403",Kab. Jayapura
+"9105","91","9408",Kab. Kepulauan Yapen
+"9106","91","9409",Kab. Biak Numfor
+"9110","91","9419",Kab. Sarmi
+"9111","91","9420",Kab. Keerom
+"9115","91","9426",Kab. Waropen
+"9119","91","9427",Kab. Supiori
+"9120","91","9428",Kab. Mamberamo Raya
+"9171","91","9471",Kota Jayapura
+"9202","92","9105",Kab. Manokwari
+"9203","92","9101",Kab. Fak Fak
+"9206","92","9104",Kab. Teluk Bintuni
+"9207","92","9103",Kab. Teluk Wondama
+"9208","92","9102",Kab. Kaimana
+"9211","92","9111",Kab. Manokwari Selatan
+"9212","92","9112",Kab. Pegunungan Arfak
+"9301","93","9401",Kab. Merauke
+"9302","93","9413",Kab. Boven Digoel
+"9303","93","9414",Kab. Mappi
+"9304","93","9415",Kab. Asmat
+"9401","94","9404",Kab. Nabire
+"9402","94","9411",Kab. Puncak Jaya
+"9403","94","9410",Kab. Paniai
+"9404","94","9412",Kab. Mimika
+"9405","94","9433",Kab. Puncak
+"9406","94","9434",Kab. Dogiyai
+"9407","94","9435",Kab. Intan Jaya
+"9408","94","9436",Kab. Deiyai
+"9501","95","9402",Kab. Jayawijaya
+"9502","95","9417",Kab Pegunungan Bintang
+"9503","95","9416",Kab. Yahukimo
+"9504","95","9418",Kab. Tolikara
+"9505","95","9431",Kab. Mamberamo Tengah
+"9506","95","9432",Kab. Yalimo
+"9507","95","9430",Kab. Lanny Jaya
+"9508","95","9429",Kab. Nduga
+"9601","96","9107",Kab. Sorong
+"9602","96","9106",Kab. Sorong Selatan
+"9603","96","9108",Kab. Raja Ampat
+"9604","96","9109",Kab. Tambrauw
+"9605","96","9110",Kab. Maybrat
+"9671","96","9171",Kota Sorong
